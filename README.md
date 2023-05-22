@@ -78,7 +78,7 @@ I am a 👨‍💻 Software Engineer from India.
 </div>
 
 
-
+<!--
 ---
 <h3>GitHub Profile Stats 💻</h3>
 
@@ -93,10 +93,10 @@ I am a 👨‍💻 Software Engineer from India.
       <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by repo" />
       <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhinav6174&theme=gruvbox&layout=compact&hide_border=true" alt="Abhinav6174 :: Top Langs by commit" />
     </a>
-  </p>-->
+  </p>
 </details>
 
-<details>
+<!--<details>
   <summary><h4>Statistics</h4></summary>
   <p align="center">
     <a href="#">
@@ -107,7 +107,7 @@ I am a 👨‍💻 Software Engineer from India.
 <br>
 </details>
  
-<!--<details>
+<details>
   <summary><h4>Latest Activity Graph 📈</h4></summary>
   <samp>
     <br/>
